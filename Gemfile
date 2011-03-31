@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem "pusher", ">= 0.7.0"
+gem "pusher", :git => 'http://github.com/indycc/pusher-gem.git'
 gem "watchr", ">= 0.7"
 
 # Add dependencies to develop your gem here.
