@@ -1,6 +1,6 @@
 GIT
   remote: http://github.com/indycc/pusher-gem.git
-  revision: 8735d9930d0159568acf3a42bcab9779b64c6a84
+  revision: 585210372f7bda64c4b1e42cf98142f7141605d9
   specs:
     pusher (0.8.0)
       crack (~> 0.1.0)
